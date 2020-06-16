@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import GuessCountry from './GuessCountry'
+import CountryGame from './CountryGame'
 class App extends Component {
  
   render() {
@@ -9,7 +9,7 @@ class App extends Component {
             style={{backgroundImage:``}}>
                 <h1 className="title-text">Guess The Flag</h1>
             </header>
-            <GuessCountry />
+            <CountryGame />
         </div>
       );
     }
