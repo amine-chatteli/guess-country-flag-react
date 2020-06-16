@@ -1,6 +1,6 @@
 import React from 'react';
 import StyledButton from './StyledButton';
-
+import './FlagChoices.css';
 const FlagChoices =  props => {
   let options = props.options || []
   const {handleChange, handleSubmit} = props;

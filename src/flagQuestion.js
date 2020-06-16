@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import FlagChoices from './FlagChoices'
 import FlagAnswer from './FlagAnswer';
-
+import './FlagQuestions.css'
 const QuestionStates = {
   QUESTION: 1,
   ANSWER_WRONG: 2,
