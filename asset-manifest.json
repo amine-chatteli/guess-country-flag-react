@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/guess-country-flag-react/static/css/main.7f016748.chunk.css",
+    "main.js": "/guess-country-flag-react/static/js/main.aa2fdacc.chunk.js",
+    "main.js.map": "/guess-country-flag-react/static/js/main.aa2fdacc.chunk.js.map",
+    "runtime-main.js": "/guess-country-flag-react/static/js/runtime-main.961fd4a8.js",
+    "runtime-main.js.map": "/guess-country-flag-react/static/js/runtime-main.961fd4a8.js.map",
+    "static/js/2.95fda0f1.chunk.js": "/guess-country-flag-react/static/js/2.95fda0f1.chunk.js",
+    "static/js/2.95fda0f1.chunk.js.map": "/guess-country-flag-react/static/js/2.95fda0f1.chunk.js.map",
+    "index.html": "/guess-country-flag-react/index.html",
+    "precache-manifest.ff86e408ad44225de0f7c29d4eab6da1.js": "/guess-country-flag-react/precache-manifest.ff86e408ad44225de0f7c29d4eab6da1.js",
+    "service-worker.js": "/guess-country-flag-react/service-worker.js",
+    "static/css/main.7f016748.chunk.css.map": "/guess-country-flag-react/static/css/main.7f016748.chunk.css.map",
+    "static/js/2.95fda0f1.chunk.js.LICENSE.txt": "/guess-country-flag-react/static/js/2.95fda0f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.961fd4a8.js",
+    "static/js/2.95fda0f1.chunk.js",
+    "static/css/main.7f016748.chunk.css",
+    "static/js/main.aa2fdacc.chunk.js"
+  ]
+}
