@@ -4,8 +4,8 @@ import './FlagAnswer.css'
 const FlagAnswer = ({correct, answer, onNext}) => (
   <div className='flag-answer'>
     {correct ?
-      `Correct!: ${answer}` :
-      `Incorrect! Correct Answer: ${answer}`}
+     <span style={{color:'green',fontSize:'50px'}}>{`Correct!: ${answer}`}</span>  :
+     <span style={{color:'red',fontSize:'50px'}}>Incorrect! Correct Answer: {answer}</span> }
     <StyledButton text="NEXT" onClick={onNext} />
   </div>
 );
