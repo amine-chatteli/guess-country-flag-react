@@ -37,14 +37,16 @@ class CountryGame extends Component {
 
   onGuess(answer) {
     const { correctOption } = this.state;
-    
+    let{total,score}=this.state
+    total++
     let questionState = answer === correctOption ?
       QuestionStates.ANSWER_CORRECT :
       QuestionStates.ANSWER_WRONG;
+       score=questionState===3?this.state.score+1:this.state.score
     this.setState({
-      questionState:questionState,
-      total:this.state.total+1,
-      score:questionState===3?this.state.score+1:this.state.score
+     questionState,
+     total,
+     score
     });
   }
 
