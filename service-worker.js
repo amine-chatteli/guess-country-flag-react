@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/guess-country-flag-react/precache-manifest.ff86e408ad44225de0f7c29d4eab6da1.js"
+  "/guess-country-flag-react/precache-manifest.e3c41dcddf0ba990b13b2db1fa56f8d6.js"
 );
 
 self.addEventListener('message', (event) => {

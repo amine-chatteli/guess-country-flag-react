@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4f1fe8b7260e0662b3e6ec89adc1d571",
+    "revision": "54d70e0f700fe36a789c7d03eac73e16",
     "url": "/guess-country-flag-react/index.html"
   },
   {
-    "revision": "75cd4cafb93baae467c8",
-    "url": "/guess-country-flag-react/static/css/main.7f016748.chunk.css"
+    "revision": "2b5f2206ef50aa5446ac",
+    "url": "/guess-country-flag-react/static/css/main.d863906e.chunk.css"
   },
   {
     "revision": "6872911ea31cba33218d",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/guess-country-flag-react/static/js/2.95fda0f1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "75cd4cafb93baae467c8",
-    "url": "/guess-country-flag-react/static/js/main.aa2fdacc.chunk.js"
+    "revision": "2b5f2206ef50aa5446ac",
+    "url": "/guess-country-flag-react/static/js/main.6fe14ace.chunk.js"
   },
   {
     "revision": "6f51de4f5a18b282d140",
